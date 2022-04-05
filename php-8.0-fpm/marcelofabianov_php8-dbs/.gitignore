@@ -1,0 +1,5 @@
+*
+!.gitignore
+Dockerfile
+instantclient_19_3.zip
+README.md
